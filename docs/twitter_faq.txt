@@ -1,0 +1,51 @@
+What is Twitter's character limit?
+Twitter allows up to 280 characters per tweet.
+
+How do I report a fake account?
+To report a fake account, go to the profile, click on the three dots, and select 'Report'.
+
+How can I change my Twitter username?
+Go to Settings > Account Information > Username, then enter a new username.
+
+How do I delete a tweet?
+Click on the three-dot menu of the tweet you want to delete and select 'Delete Tweet'. This action is irreversible.
+
+How do I deactivate my Twitter account?
+Navigate to Settings > Your Account > Deactivate your account and follow the instructions.
+
+Can I recover deleted tweets?
+No, deleted tweets cannot be recovered.
+
+How do I make my tweets private?
+Go to Settings > Privacy and Safety > Audience and Tagging, then enable 'Protect your Tweets'.
+
+How can I mute or block someone?
+Visit the profile, click the three dots, and choose 'Mute' or 'Block'.
+
+What should I do if my account is hacked?
+Change your password immediately and enable two-factor authentication in Settings > Security.
+
+How do I enable two-factor authentication?
+Go to Settings > Security and enable two-factor authentication using SMS or an authenticator app.
+
+How do I turn off sensitive content warnings?
+Navigate to Settings > Privacy and Safety > Content You See, and adjust the 'Sensitive Content' settings.
+
+How can I appeal a suspended account?
+If your account is suspended, visit Twitter’s Help Center and submit an appeal request.
+
+How do I download my Twitter data?
+Go to Settings > Your Account > Download an archive of your data.
+
+What happens when I delete my Twitter account?
+Your profile, tweets, and data will be removed permanently after 30 days of inactivity.
+
+How can I stop seeing a particular hashtag or topic?
+You can mute specific words, phrases, or hashtags under Settings > Privacy and Safety > Muted Words.
+
+Can I schedule tweets on Twitter?
+Yes, you can schedule tweets using Twitter’s web app or third-party tools like TweetDeck.
+
+Can I edit a tweet after posting it?
+No, Twitter does not allow users to edit tweets after posting. However, you can delete the tweet and repost a corrected version.
+
