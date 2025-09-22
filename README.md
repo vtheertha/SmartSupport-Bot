@@ -68,23 +68,4 @@ The chatbot UI will be accessible at `http://localhost:8501`.
 - LangChain 🔗
 - FAISS (Facebook AI Similarity Search) 🔍
 
-## Future Improvements
-- ✅ Enhance chatbot UI for a better experience.
-- ✅ Optimize document retrieval with advanced embeddings.
-- ⏳ Integrate multi-turn conversations with better memory handling.
-- ⏳ Deploy the chatbot as a web service using FastAPI.
 
-## 🔧 Customization
-- **Modify the FAQ dataset**: Update `docs/twitter_faq.txt` with your own FAQs.
-- **Adjust retrieval behavior**: Change `top_k` in `retriever.py` to modify the number of relevant documents fetched.
-- **Enhance UI**: Modify `app.py` to change the chatbot's appearance.
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-Feel free to open issues and submit pull requests to improve the chatbot!
-
----
-
-Developed with ❤️ by Theertha 
